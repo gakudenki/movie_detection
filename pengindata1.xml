@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Snapshot.png'>
+    <box top='596' left='224' width='645' height='861'/>
+  </image>
+  <image file='Snapshot_100.png'>
+    <box top='736' left='448' width='617' height='849'/>
+  </image>
+  <image file='Snapshot_111.png'>
+    <box top='704' left='516' width='545' height='881'/>
+  </image>
+  <image file='Snapshot_121.png'>
+    <box top='688' left='520' width='537' height='845'/>
+  </image>
+  <image file='Snapshot_142.png'>
+    <box top='536' left='32' width='305' height='369'/>
+  </image>
+  <image file='Snapshot_147.png'>
+    <box top='596' left='100' width='317' height='369'/>
+  </image>
+  <image file='Snapshot_15.png'>
+    <box top='560' left='216' width='673' height='845'/>
+  </image>
+  <image file='Snapshot_159.png'>
+    <box top='604' left='152' width='333' height='389'/>
+  </image>
+  <image file='Snapshot_188.png'>
+    <box top='972' left='456' width='609' height='613'/>
+  </image>
+  <image file='Snapshot_189.png'>
+    <box top='1008' left='384' width='673' height='577'/>
+  </image>
+  <image file='Snapshot_191.png'>
+    <box top='1068' left='332' width='725' height='469'/>
+  </image>
+  <image file='Snapshot_20.png'>
+    <box top='572' left='208' width='665' height='861'/>
+  </image>
+  <image file='Snapshot_25.png'>
+    <box top='568' left='196' width='681' height='825'/>
+  </image>
+  <image file='Snapshot_38.png'>
+    <box top='536' left='348' width='649' height='869'/>
+  </image>
+  <image file='Snapshot_8.png'>
+    <box top='576' left='220' width='705' height='861'/>
+  </image>
+  <image file='Snapshot_90.png'>
+    <box top='752' left='612' width='457' height='829'/>
+  </image>
+  <image file='Snapshot_95.png'>
+    <box top='756' left='452' width='613' height='837'/>
+  </image>
+</images>
+</dataset>
